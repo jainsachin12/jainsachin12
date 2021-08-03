@@ -10,7 +10,7 @@ pool:
   vmImage: ubuntu-latest
 
 steps:
-- script: echo Hello, my Devops pipeline world!
+- script: echo Hello, my Devops new pipeline world!
   displayName: 'Run a one-line script'
 
 - script: |
